@@ -43,4 +43,4 @@ The model achieved competitive performance on the Kaggle competition dataset.
 
 ## Author
 
-Jiageng 'Morgan' Wei  – Rutgers University
+Morgan(Jiageng) Wei  – Rutgers University
